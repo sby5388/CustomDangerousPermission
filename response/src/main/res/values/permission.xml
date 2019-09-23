@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_dangerous">com.by5388.custom.permission.dangerous</string>
+    <string name="permission_normal">com.by5388.custom.permission.normal</string>
+
+    <string name="description_normal">这是一个普通的权限</string>
+    <string name="description_dangerous">访问手机存储、网络、定位功能？拒绝后将不能正常使用该软件</string>
+    <string name="label_normal">普通权限</string>
+    <string name="label_dangerous">危险权限</string>
+
+    <string name="action_normal">com.by5388.custom.permission.action.normal</string>
+    <string name="action_dangerous">com.by5388.custom.permission.action.dangerous</string>
+
+</resources>
